@@ -1,0 +1,5 @@
+# urls.txt (example data file for storing crawled URLs)
+http://example.com
+http://example.com/about
+http://example.com/contact
+

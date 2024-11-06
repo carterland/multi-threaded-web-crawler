@@ -1,7 +1,7 @@
 import threading
 import time
 from queue import Queue
-from crawler.fetcher import fetch_page
+from .fetcher import fetch_page
 from crawler.parser import extract_links
 from crawler.config import visited_urls
 
